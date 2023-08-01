@@ -1,0 +1,14 @@
+{
+  "name": "relay",
+  "version": "1.0.0",
+  "description": "network performance testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mogongzi",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
